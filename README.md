@@ -80,7 +80,7 @@ To run the script:
 Contributions and feedback are welcome for further refinement and enhancement of the project.
 
 **Note:**  
-For detailed analysis and findings, refer to the project documentation, including the Jupyter notebook and report available in the repository. 
+For detailed analysis and findings, refer to the project documentation, including the Jupyter notebook and report available in the repository(I used colab). 
 
 
 ## Author
