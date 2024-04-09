@@ -10,7 +10,7 @@ The methodology involves data preprocessing, association mining, clustering, and
 The dataset comprises multiple tables, including accident, vehicle, casualty, and LSOA of the accident location. Data cleaning involves addressing missing values, negative entries, and inconsistencies. Techniques such as replacing missing values and normalizing data are employed to ensure the dataset's integrity and reliability.
 
 **Accident Demography:**  
-Geographical analysis reveals accident hotspots in major urban cities such as London and Manchester. Most accidents occur on single-carriage roads within urban areas, with the majority categorized as minor. Analysis of casualty and driver demographics highlights trends in age groups and gender distribution.
+Geographical analysis reveals accident hotspots in major urban cities such as London , Manchester Liverpool, Leeds, and Birmingham. Most accidents occur on single-carriage roads within urban areas, with the majority categorized as minor. Analysis of casualty and driver demographics highlights trends in age groups and gender distribution.
 
 ![hotspot](https://github.com/adewoleaj/UK-Road-Traffic-Accident-Analysis/blob/main/accodemt%20decom%20.png?raw=true)
 
@@ -57,9 +57,26 @@ References to academic sources and relevant literature are provided for further 
 - Data scientists and analysts can explore the methodologies and models implemented in this project for similar analyses in different contexts.
 - Developers and stakeholders involved in road infrastructure and transportation planning can leverage the findings to prioritize safety measures and intervention
 
+To run the script:
+
+   1. Clone this repository.
+   2. Ensure you have the required packages installed (**pandas**, **numpy**, **seaborn**, **matplotlib**).
+   3. No additional configuration is required beyond the installation steps. However, you may need to adjust the path to your dataset and model directory according to your local setup
+   4. Run the Python script housing_price_prediction.py
+
 
 **Contributions:**
 Contributions and feedback are welcome for further refinement and enhancement of the project.
 
 **Note:**  
 For detailed analysis and findings, refer to the project documentation, including the Jupyter notebook and report available in the repository. 
+
+
+## Author
+
+**_Adewole Adetoro Ajala_**
+
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+
+Feel free to contribute or provide feedback!
+
