@@ -3,6 +3,17 @@
 **Introduction:**  
 Accidents occur due to various factors, and understanding these factors can aid in predicting their likelihood and mitigating their consequences. This project leverages real-world data from UK road traffic accident reports in 2020 to provide insights into accident patterns and outcomes. By employing data-driven approaches, the aim is to suggest strategies for enhancing road safety and minimizing risks associated with accidents.
 
+**Objectives:**
+
+- Investigate if there are specific hours of the day and days of the week when accidents occur more frequently.
+- Analyze accident patterns for different categories of motorcycles, including Motorcycle 125cc and under, Motorcycle over 125cc and up to 500cc, and Motorcycle over 500cc.
+- Examine the hours of the day and days of the week when pedestrians are more likely to be involved in accidents.
+- Utilize the Apriori algorithm to explore the impact of selected variables on accident severity.
+- Identify and analyze accidents within specific regions, such as Kingston upon Hull, Humberside, and the East Riding of Yorkshire, through clustering techniques.
+- Implement outlier detection methods to identify unusual entries in the dataset and assess their relevance for analysis.
+- Develop a classification model using the provided data to accurately predict fatal injuries sustained in road traffic accidents, aiming to inform and improve road safety measures.
+
+
 **Methodology:**  
 The methodology involves data preprocessing, association mining, clustering, and predictive modeling. Techniques such as the Apriori algorithm and Random Forest, decision tree, and Gradient Boost algorithms are utilized to understand accident causes, predict accident severity, and derive actionable insights.
 
