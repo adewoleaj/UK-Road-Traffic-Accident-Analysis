@@ -87,7 +87,7 @@ For detailed analysis and findings, refer to the project documentation, includin
 
 **_Adewole Adetoro Ajala_**
 
-For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com / a.ajala-2021@hull.ac.uk
 
 Feel free to contribute or provide feedback!
 
