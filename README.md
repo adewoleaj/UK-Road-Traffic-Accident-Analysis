@@ -12,14 +12,30 @@ The dataset comprises multiple tables, including accident, vehicle, casualty, an
 **Accident Demography:**  
 Geographical analysis reveals accident hotspots in major urban cities such as London and Manchester. Most accidents occur on single-carriage roads within urban areas, with the majority categorized as minor. Analysis of casualty and driver demographics highlights trends in age groups and gender distribution.
 
+![hotspot](https://github.com/adewoleaj/UK-Road-Traffic-Accident-Analysis/blob/main/accodemt%20decom%20.png?raw=true)
+
+                                UK Accident Hotspot
+
 **Data Insights:**  
 Insights are drawn regarding the significant hours and days of the week for accidents occurrence, with spikes observed during rush hours and on Fridays. Motorcycle accidents also exhibit temporal patterns, with certain types of motorcycles and days of the week showing higher accident occurrences.
+
+![weekly](https://github.com/adewoleaj/UK-Road-Traffic-Accident-Analysis/blob/main/data%20insgint%20.png?raw=true)
+
+            Distribution of accident occurrence per weekdays for different casualty types
 
 **Effect of Light and Weather Conditions:**  
 Analysis indicates that the majority of accidents occur during daylight and fine weather conditions. Adverse weather conditions have minimal impact on accident occurrence, potentially reducing accidents due to decreased driving activity.
 
+![weather](https://github.com/adewoleaj/UK-Road-Traffic-Accident-Analysis/blob/main/weather%20condition%20.png?raw=true)
+
+                      Effect of light and weather conditions on accident
+
 **Prediction:**  
 Predictive models, particularly Random Forest, demonstrate strong performance in predicting accident severity, with commendable recall rates and accuracy. Cross-validation enhances model metrics, highlighting the model's robustness in identifying fatal accidents.
+
+![predictive model](https://github.com/adewoleaj/UK-Road-Traffic-Accident-Analysis/blob/main/predictive%20model%20.png?raw=true)
+
+Model performance metric of different classification algorithm and Random Forest classification report and confusion matric 
 
 **Recommendations:**
 
